@@ -1,2 +1,2 @@
-<h2>eQuiz</h2>
-<h4>Daily Quiz to Test Your JavaScript Knowledge!</h4>
+<h2>qNotion</h2>
+<h4>Manage And Search Your Pending Tasks In Clicks!</h4>
